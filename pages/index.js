@@ -27,7 +27,6 @@ export default function Home({ allPostsData }) {
           travel around the world.You can find me on{' '}
           <a href="https://twitter.com/shubhski">Twitter</a>
         </p>
-        
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
